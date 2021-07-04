@@ -1,5 +1,5 @@
 # Password Generator Starter Code
-Created calculator that prompts the user meets the user criteria 
+Created calculator:
 THAT: meets the criteria for uppercase, lowercase, numbers and special characters
 THAT: prompts the user to choose password length of password
 THEN: gives the option for length amount between 8 - 128
