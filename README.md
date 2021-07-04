@@ -10,7 +10,7 @@ https://jeremymcg88.github.io/Java-calculator/
 
 
 ## Screenshot
-![Screenshot](./Assets/screenshoot/generate password screenshot.png)
+![Screenshot](.Assets/screenshoot/generate password screenshot.png)
 ## Contribution
 Made by Jeremy McGuirk 
 
