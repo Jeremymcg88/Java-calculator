@@ -1,12 +1,20 @@
 # Password Generator Starter Code
 Created calculator:
+
 THAT: meets the criteria for uppercase, lowercase, numbers and special characters
+
 THAT: prompts the user to choose password length of password
+
 THEN: gives the option for length amount between 8 - 128
+
 THEN: a confirmation whether or not to include uppercase, lowercase, numbers, or special characters.
+
 THEN: gives the option to include uppercase, lowercase, numbers or letters. Will return an alert if nothing chosen and a prompt to resubmit.
+
 WHEN: all prompts are answered correctly
+
 THEN: password will be generated matching criteria
+
 THEN: password will be displayed inside of box
 
 CODE:
